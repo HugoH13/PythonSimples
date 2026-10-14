@@ -4,4 +4,3 @@ print(idade)
 print('Testando python')
 curso = "Python Desenvolvedor"
 print(curso)
-print("Teste")
